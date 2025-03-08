@@ -91,7 +91,3 @@ This is a C++ implementation of a **Playground Reservation System** that allows 
   1. Add support for more types of bookable items (e.g., basketball courts, tennis courts).
 
   2. Implement file-based data persistence to save and load user and bookable data.
-
-  3. Enhance the UI with a graphical interface (e.g., using Qt or another framework).
-
-  4. Add unit tests to ensure code reliability.

@@ -77,6 +77,8 @@ This is a C++ implementation of a **Playground Reservation System** that allows 
    ```bash
    git clone https://github.com/lolooppo/GoPlay.git
 2.Compile the code using a C++ compiler (e.g., g++):
+  ```bash
   g++ main.cpp -o GoPlay
 3. Run the executable:
+  ```bash
   ./GoPlay  
